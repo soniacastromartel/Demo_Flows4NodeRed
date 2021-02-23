@@ -1,1 +1,0 @@
-[{"id":"c73731fd.16bb","type":"e-mail","z":"16173ec6.f11279","server":"smtp.gmail.com","port":"465","secure":true,"tls":true,"name":"EMAIL_DE_DESTINO@gmail.com","dname":"","x":600,"y":140,"wires":[]}]
